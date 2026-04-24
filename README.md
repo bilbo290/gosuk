@@ -15,7 +15,7 @@ Install this skill: https://github.com/bilbo290/gosuk/tree/main/skills/gosuk
 Or run the installer directly:
 
 ```bash
-python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
   --url https://github.com/bilbo290/gosuk/tree/main/skills/gosuk
 ```
 
