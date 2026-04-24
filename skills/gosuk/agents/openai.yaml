@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gosuk"
+  short_description: "Implement with deterministic verification first"
+  default_prompt: "Use $gosuk for this task. Define and run a deterministic verifier before editing code, then implement the change, rerun the same verifier, and when the work has a visible or generated result, try to produce and show that UI or artifact as proof before finishing with the minimal required guardrails."
